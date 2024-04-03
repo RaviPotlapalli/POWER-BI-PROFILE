@@ -1,0 +1,7 @@
+Intially when you open the file practice III it lands into home page with all the tabs and information with image with menu bar is hidden.
+In clicking of menu bar the menu bar opens and shows all the tabs.
+When you click on Education tab>it lands into Education tab.we can move to various educational levels by using the drop down.
+On selection from drop down the guage chart and details gets updated accordingly.
+On clicking publication it lands to publication .On clicking on '+' icon it get expands and we can go through the abstract.
+Similarly in the Projects Tab.
+When we go to certificates tab we see same section of certificates on clicking on the certificates it leads to the dynamic view of the certificate which has arrows to navigate back and return to certificate default tab.
